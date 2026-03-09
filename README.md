@@ -50,23 +50,10 @@ A system that uses **Computer Vision** to recognize and classify garbage types f
 * Git
 * GitHub
 * Linux
-
----
-
-## 🧪 Basic Test Cases
-
-| Test Case             | Input                   | Expected Result                      |
-| --------------------- | ----------------------- | ------------------------------------ |
-| Upload plastic bottle | Image of plastic bottle | System classifies as "Plastic"       |
-| Upload banana peel    | Image of banana peel    | System classifies as "Organic Waste" |
-| Upload metal can      | Image of soda can       | System classifies as "Metal"         |
-| Upload unknown object | Random object           | System returns "Unknown"             |
-
 ---
 
 ## 📂 Other Projects
 
-* 📊 Segment Tree Algorithms (C++)
 * 📈 Data Mining – FP-Growth Algorithm
 * 🧠 Elephant Search Algorithm Research
 
