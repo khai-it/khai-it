@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hello, I'm Khai
 
-<!--
-**khai-it/khai-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student at SGU  
+💻 Interested in Algorithms, Databases and Software Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- C++
+- Java
+- Java Swing
+- JavaScript
+- Git
+
+---
+
+## 📂 Projects
+
+### 🍰 Cake Management System
+Java Swing application to manage products, bills and providers.
+
+🔗 https://github.com/username/cake-management
+
+---
+
+### 📊 Segment Tree Algorithms
+Implementation of advanced segment tree with lazy propagation.
+
+🔗 https://github.com/username/segment-tree
+
+---
+
+## 📫 Contact
+Email: yourmail@gmail.com
